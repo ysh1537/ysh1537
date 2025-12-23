@@ -1,7 +1,7 @@
 # <p align="center">✦ CINEMATIC MULTIVERSE ARCHITECT ✦</p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=000000&height=200&section=header&text=YESOL%20HEO&fontSize=70&fontColor=06b6d4&animation=twinkling&fontAlignY=40" />
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=000000&height=200&section=header&text=YESOL%20HEO&fontSize=70&fontColor=06b6d4&animation=twinkling&fontAlignY=40&font=Slant" />
 </p>
 
 ## <p align="center">"디자인과 기술의 접점에서 몰입형 디지털 경험을 구축합니다."</p>
