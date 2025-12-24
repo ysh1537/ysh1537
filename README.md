@@ -1,64 +1,62 @@
-# <p align="center">✦ CINEMATIC MULTIVERSE ARCHITECT ✦</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=000000&height=200&section=header&text=YESOL%20HEO&fontSize=70&fontColor=06b6d4&animation=twinkling&fontAlignY=40&font=Slant" />
-</p>
+  <!-- Header: Cinematic Banner acts as a Portal -->
+  <a href="https://ysh1537.github.io">
+    <img src="profile_header.png" alt="Cinematic Metaverse Director" width="100%" />
+  </a>
 
-## <p align="center">"디자인과 기술의 접점에서 몰입형 디지털 경험을 구축합니다."</p>
+  <br/><br/>
 
-### <p align="center">🌌 Welcome to my Multiverse</p>
+  <!-- Introduction with Typing Effect -->
+  <a href="https://ysh1537.github.io">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=40&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&height=100&lines=CINEMATIC+METAVERSE;DIRECTOR+%26+DEVELOPER;ENTER+THE+UNIVERSE" alt="Typing SVG" />
+  </a>
 
-<p align="center">
-  코드를 시각적 시로 완성하는 디렉터, <b>허예솔</b>입니다.<br>
-  현실과 가상의 경계를 허무는 3D 웹 환경과 인터랙티브 경험을 설계하고 있습니다.
-</p>
+  <br/>
 
-<p align="center">
-  <a href="https://heoyesol.kr"><strong>[ 메인 포트폴리오 방문하기 ]</strong></a> | <a href="mailto:official.yesol@gmail.com"><strong>[ CONTACT ME ]</strong></a>
-</p>
+  <!-- Philosophy Section -->
+  <h3><samp>&gt; I create worlds, not just code.</samp></h3>
+  
+  <p align="center">
+    <img src="https://img.shields.io/badge/Creative-Director-000000?style=for-the-badge&logo=artstation&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Interactive-Developer-000000?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+    <img src="https://img.shields.io/badge/Metaverse-Architect-000000?style=for-the-badge&logo=unrealengine&logoColor=white"/>
+  </p>
 
----
+  <br/>
 
-### 🛠 ARSENAL (Main Tech Stack)
+  <!-- Gateway Button -->
+  <a href="https://ysh1537.github.io">
+    <img src="https://img.shields.io/badge/ENTER%20UNIVERSE-00F0FF?style=for-the-badge&logo=probot&logoColor=black&labelColor=101010&height=40" height="40" alt="Enter Universe" />
+  </a>
+  
+  <br/><br/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.dot-js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/Sanity-F03E2F?style=for-the-badge&logo=sanity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
-
----
-
-### 📊 MULTIVERSE METRICS
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ysh1537&show_icons=true&theme=tokyonight&bg_color=000000&title_color=06b6d4&text_color=ffffff&icon_color=fbbf24&hide_border=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ysh1537&layout=compact&theme=tokyonight&bg_color=000000&title_color=ec4893&text_color=ffffff&icon_color=fbbf24&hide_border=true" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ysh1537&theme=tokyonight&background=000000&fire=ec4893&ring=06b6d4&currStreakNum=ffffff" height="180" />
-</p>
+</div>
 
 ---
 
-### 🛸 SECTORS IN OPERATION
+<div align="center">
 
-- 🪐 **[Portfolio Hub](https://github.com/ysh1537/portfolio)**: 시네마틱 3D 포트폴리오 본체
-- ☘️ **[Creature Lab](https://github.com/ysh1537/game)**: 멀티버스 크리처 육성 및 연구 게임
-- 🛰 **[Landing Page](https://github.com/ysh1537/ysh1537.github.io)**: 프로젝트 통합 게이트웨이
+  <!-- Tech Constellation -->
+  <h2>🛠️ Tech Constellation</h2>
+  
+  <img src="https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Unreal%20Engine-black?style=for-the-badge&logo=unrealengine&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 
----
+  <br/><br/>
 
-<p align="center">
-  <img src="https://mazipan.github.io/grid-status/ysh1537.svg" />
-</p>
+  <!-- Stats -->
+  <h2>📊 Voyage Logs</h2>
+  
+  <a href="https://github.com/ysh1537">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ysh1537&show_icons=true&theme=midnight-owl&bg_color=00000000&hide_border=true&title_color=00F0FF&icon_color=00F0FF&text_color=ffffff" alt="Stats" />
+  </a>
+  <a href="https://github.com/ysh1537">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ysh1537&layout=compact&theme=midnight-owl&bg_color=00000000&hide_border=true&title_color=00F0FF&text_color=ffffff" alt="Langs" />
+  </a>
 
-<p align="center">
-  <i>"The future is built with code and imagination."</i>
-</p>
+</div>
