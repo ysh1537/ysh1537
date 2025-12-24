@@ -37,12 +37,11 @@
 
 <div align="center">
     <h2>📡 VOYAGE DATA</h2>
-    <!-- Simplified Safe URLs for Stats -->
-    <a href="https://github.com/ysh1537">
-        <img src="https://github-readme-stats.vercel.app/api?username=ysh1537&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" height="160" alt="Stats" />
+    <a href="https://github.com/ysh1537?tab=followers">
+        <img src="https://img.shields.io/github/followers/ysh1537?style=for-the-badge&logo=github&color=0d1117&labelColor=00F0FF&label=CREW_MEMBERS"/>
     </a>
-    <a href="https://github.com/ysh1537">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ysh1537&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" height="160" alt="Langs" />
+    <a href="https://github.com/ysh1537?tab=repositories">
+        <img src="https://img.shields.io/github/stars/ysh1537?style=for-the-badge&logo=github&color=0d1117&labelColor=00F0FF&label=STARS_COLLECTED"/>
     </a>
 </div>
 
